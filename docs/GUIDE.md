@@ -79,7 +79,9 @@ There is a restriction.
 You must explicitly tell the API Twitter to enforce such a limit.
 Read the documentation of the [Twitter Search component](https://camel.apache.org/components/latest/twitter-search-component.html) of Apache Camel to discover how.
 
-You need to [apply for a free Twitter developer account](https://developer.twitter.com/en/apply-for-access).
+You need to [sing up a **free** Twitter developer account](https://developer.twitter.com/en/apply-for-access), 
+create a [project](https://developer.twitter.com/en/portal/projects-and-apps),
+and then apply for [elevated privileges (also **free**)](https://developer.twitter.com/en/portal/products/elevated).
 
 **Do not add `application.properties` with the Twitter tokens to your git!**
 
