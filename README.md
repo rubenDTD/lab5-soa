@@ -16,4 +16,4 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 
 | User name | NIA | GitHub Action | Score |
 |-----------|-----|---------------|-------|
-|           |     |               |       |
+| [ZenithGD](https://github.com/ZenithGD/lab5-soa/tree/work) | 795306 | ![Build Status](https://github.com/ZenithGD/lab5-soa/actions/workflows/CI.yml/badge.svg?branch=work&event=push) | Plan to implement **Database** |
