@@ -17,3 +17,4 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 | User name | NIA | GitHub Action | Score |
 |-----------|-----|---------------|-------|
 |           |     |               |       |
+[797021](https://github.com/797021/lab5-soa/tree/work) | 797021 | [![Build Status](https://github.com/797021/lab5-soa/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/797021/lab5-soa/actions/workflows/ci.yml) |
