@@ -17,3 +17,4 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 | User name | NIA | GitHub Action | Score |
 |-----------|-----|---------------|-------|
 |           |     |               |       |
+| [GueorguiKachan](https://github.com/GueorguiKachan/lab5-soa/tree/work) | 794999 | [![Build Status](https://github.com/GueorguiKachan/lab5-soa/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/GueorguiKachan/lab5-soa/actions/workflows/ci.yml) |
