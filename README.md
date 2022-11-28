@@ -16,4 +16,4 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 
 | User name | NIA | GitHub Action | Score |
 |-----------|-----|---------------|-------|
-| [celiia01](https://github.com/celiia01/lab5-soa/tree/work)| 796685 |![Build Status](https://github.com/celiia01/lab5-soa/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/celiia01/lab5-soa/actions/workflows/ci.yml)   |       |
+| [celiia01](https://github.com/celiia01/lab5-soa/tree/work)| 796685 |[![Build Status](https://github.com/celiia01/lab5-soa/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/celiia01/lab5-soa/actions/workflows/ci.yml)   |       |
