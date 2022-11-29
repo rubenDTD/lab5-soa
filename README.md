@@ -16,6 +16,7 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 
 | User name | NIA | GitHub Action | Score |
 |-----------|-----|---------------|-------|
+| [Hec7or-Uni](https://github.com/Hec7or-Uni/lab5-soa/tree/work) | 798095 | [![Build Status](https://github.com/Hec7or-Uni/lab5-soa/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/Berty980/lab5-soa/actions/workflows/ci.yml) |       |
 | [Berty980](https://github.com/Berty980/lab5-soa/tree/work) | 735976 | [![Build Status](https://github.com/Berty980/lab5-soa/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/Berty980/lab5-soa/actions/workflows/ci.yml) |       |
 | [ZenithGD](https://github.com/ZenithGD/lab5-soa/tree/work) | 795306 | ![Build Status](https://github.com/ZenithGD/lab5-soa/actions/workflows/ci.yml/badge.svg?branch=work&event=push) | **Database** 🎁 |
 | [celiia01](https://github.com/celiia01/lab5-soa/tree/work)| 796685 |[![Build Status](https://github.com/celiia01/lab5-soa/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/celiia01/lab5-soa/actions/workflows/ci.yml)   |       |
