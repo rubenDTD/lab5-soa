@@ -14,8 +14,8 @@ Note: unless the goal specifies o disallows a specific framework you are free to
 Manifest your intention first by a PR updating this `README.md` with your goal.
 If you desist of your goal, release it by a PR so other fellow can try it.
 
-| User name | NIA | GitHub Action                                                                                                                                                                                | Score          |
-|-----------|-----|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|
+| User name | NIA | GitHub Action | Score |
+|-----------|-----|---------------|-------|
 | [Berty980](https://github.com/Berty980/lab5-soa/tree/work) | 735976 | [![Build Status](https://github.com/Berty980/lab5-soa/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/Berty980/lab5-soa/actions/workflows/ci.yml)             |                |
 | [ZenithGD](https://github.com/ZenithGD/lab5-soa/tree/work) | 795306 | ![Build Status](https://github.com/ZenithGD/lab5-soa/actions/workflows/ci.yml/badge.svg?branch=work&event=push)                                                                              | **Database** 🎁 |
 | [celiia01](https://github.com/celiia01/lab5-soa/tree/work)| 796685 | [![Build Status](https://github.com/celiia01/lab5-soa/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/celiia01/lab5-soa/actions/workflows/ci.yml)             |                |
@@ -27,3 +27,4 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 | [Ernesting](https://github.com/Ernesting/lab5-soa/tree/work) | 798799 | [![Build Status](https://github.com/Ernesting/lab5-soa/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/Ernesting/lab5-soa/actions/workflows/ci.yml) |
 | [HugoLazaro](https://github.com/HugoLazaro/lab5-soa/tree/work) | 801758 | [![Build Status](https://github.com/HugoLazaro/lab5-soa/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/HugoLazaro/lab5-soa/actions/workflows/ci.yml)          |
 | [Hec7or-Uni](https://github.com/Hec7or-Uni/lab5-soa/tree/work) | 798095 | [![Build Status](https://github.com/Hec7or-Uni/lab5-soa/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/Hec7or-Uni/lab5-soa/actions/workflows/ci.yml)         |                |
+| [Davidzf21](https://github.com/Davidzf21/lab5-soa/tree/work) | 780500 | [![Build Status](https://github.com/Davidzf21/lab5-soa/actions/workflows/ci.yml/badge.svg?branch=work&event=push)](https://github.com/Davidzf21/lab5-soa/actions/workflows/ci.yml) |
